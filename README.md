@@ -1,5 +1,5 @@
-# Testando tudo o que foi ensinado sobre git e github
+# Repositório da atividade prática
 
-## Com base no curso que fiz em 2026
+## Testando tudo o que foi ensinado sobre git e github
 
 Exercício prático
