@@ -1,1 +1,1 @@
-"Eu sou a velocidade"
+Atividade para criar um repositório no GitHub via git e VS code.
